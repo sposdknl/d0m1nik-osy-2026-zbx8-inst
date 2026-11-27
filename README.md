@@ -1,5 +1,6 @@
 # Samostatná práce: Instalace Zabbixu 8.0 LTS
 
+![](Images/veverkazabbix.png)
 ## Příkazy
 ```bash
 vagrant up
